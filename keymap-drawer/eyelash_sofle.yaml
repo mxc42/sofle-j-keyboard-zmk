@@ -156,7 +156,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '-', s: _}
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - $$mdi:backspace-reverse-outline$$
   - $$mdi:keyboard-esc$$
   - '|'
   - (
@@ -165,10 +165,10 @@ layers:
   - F10
   - $$mdi:arrow-left-bold$$
   - H
-  - {t: '4', s: $}
-  - {t: '5', s: '%'}
-  - {t: '6', s: ^}
-  - +
+  - $$mdi:arrow-left-bold$$
+  - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-up-bold$$
+  - $$mdi:arrow-right-bold$$
   - {t: \, s: '|'}
   - $$mdi:apple-keyboard-shift$$
   - {t: \, s: '|'}
