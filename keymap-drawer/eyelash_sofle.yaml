@@ -105,7 +105,7 @@ layers:
   - {t: '6', s: ^}
   - +
   - {t: \, s: '|'}
-  - Alt+Sft+F1
+  - $$mdi:apple-keyboard-shift$$
   - F1
   - F2
   - F3
